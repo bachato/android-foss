@@ -586,6 +586,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) <sup>**[[F-Droid](https://f-droid.org/packages/com.amrdeveloper.linkhub)]**</sup>
 * [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.limelight)]**</sup>
 * [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.jairaj.janglegmail.motioneye)]**</sup>
+* [**Offline Web Search**](https://github.com/rumca-js/OfflineWebSearch) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.rumcajs.offlinewebsearch)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads) <sup>**[[F-Droid](https://f-droid.org/packages/software.mdev.bookstracker)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb)]**</sup>
 * [**ShizuCallRecorder**](https://github.com/kitsumed/ShizuCallRecorder) <sup>**[[F-Droid](https://f-droid.org/packages/com.kitsumed.shizucallrecorder)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.kitsumed.shizucallrecorder)]**</sup>
